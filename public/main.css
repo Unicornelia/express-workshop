@@ -3,9 +3,9 @@
 ********************/
 
 body, html, div, label, p, h1, h2, h3, h4, h5, h6, form, a, input, textarea {
-	margin: 0; 
-	padding: 0; 
-	border: 0; 
+	margin: 0;
+	padding: 0;
+	border: 0;
 	outline: none;
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 100%;
     padding: 23px 0;
 	margin: 0 15px;
-	color: #FF0040;
+	color: #13433e;
 	letter-spacing: 1px;
 }
 
@@ -51,11 +51,11 @@ main {
 
 
 header {
-	background: #FF0040;
-	background: -webkit-linear-gradient(#F5A9BC, #FF0040);
-	background: -o-linear-gradient(#F5A9BC, #FF0040); 
-	background: -moz-linear-gradient(#F5A9BC, #FF0040);
-	background: linear-gradient(#F5A9BC, #FF0040);
+	background: #13433e;
+	background: -webkit-linear-gradient(#40E0D0, #13433e);
+	background: -o-linear-gradient(#40E0D0, #13433e); 
+	background: -moz-linear-gradient(#40E0D0, #13433e);
+	background: linear-gradient(#40E0D0, #13433e);
 }
 
 .title {
